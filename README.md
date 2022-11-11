@@ -33,9 +33,9 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/lisus18ikrak/fontphish
-cd CamPhish
-bash camphish.sh
+git clone https://github.com/lisus18ikrak/fontphish.git
+cd fontphish
+bash fontphish.sh
 ```
 
 ## Change Log:
