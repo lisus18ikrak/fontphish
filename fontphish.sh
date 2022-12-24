@@ -32,6 +32,9 @@ command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not instal
 
 stop() {
 
+
+
+
 checkngrok=$(ps aux | grep -o "ngrok" | head -n1)
 checkphp=$(ps aux | grep -o "php" | head -n1)
 checkssh=$(ps aux | grep -o "ssh" | head -n1)
